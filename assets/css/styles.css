@@ -1,0 +1,32 @@
+* {
+    font-family: "Open Sans", sans-serif;
+}
+
+nav,
+footer {
+    background-color: #E83E8C;
+}
+
+/*INICIO ESTILOS HEADER*/
+
+header h1 {
+    font-size: 35px;
+    color: #707070;
+}
+
+/* FIN ESTILOS HEADER*/
+
+footer img {
+    width: 4%;
+    min-width: 35px;
+}
+
+#tarjetas {
+    background-color: #17A2B8;
+}
+
+.wrapper-tarjetas-icon {
+    font-size: 70px;
+    margin: 0 5px;
+    color: white;
+}
